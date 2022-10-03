@@ -1,3 +1,4 @@
+// Code of Quick Sort
 package Algorithms;
 
 public class QuickSort {
